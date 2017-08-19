@@ -1,6 +1,4 @@
 # React-Native notes
-
-# React-Native notes
 Personal notes using react-native
 
 ## Errors/Troubleshooting
