@@ -17,6 +17,8 @@ Personal notes using react-native on mac
   * npm install --save-dev eslint-config-rallycoding
 * Firebase
   * npm install --save firebase
+* Redux
+  * npm install --save redux react-redux
 * Axios
    * npm install --save axios
 
