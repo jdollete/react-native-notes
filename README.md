@@ -15,6 +15,9 @@ Personal notes using react-native on mac
 ## Libraries
 * ESLint
   * npm install --save-dev eslint-config-rallycoding
+  * Create .eslintrc file on route directory
+  * ` { "presets": ["react-native"] } `
+
 * Firebase
   * npm install --save firebase
 * Redux
