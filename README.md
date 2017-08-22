@@ -27,6 +27,8 @@ Personal notes using react-native on mac
   * npm install --save react-native-router-flux@3.35.0
 * Axios
    * npm install --save axios
+* Lodash (Helper method for objects and arrays)
+  * npm install --save lodash
 
 ## Errors/Troubleshooting
 * bundling failed: "TransformError"
