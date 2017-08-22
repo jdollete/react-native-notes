@@ -17,11 +17,14 @@ Personal notes using react-native on mac
   * npm install --save-dev eslint-config-rallycoding
   * Create .eslintrc file on route directory
   * ` { "presets": ["react-native"] } `
-
 * Firebase
   * npm install --save firebase
 * Redux
   * npm install --save redux react-redux
+* Redux-Thunk (Used for asynchronous dispatch)
+  * npm install --save redux-thunk
+* react-native-router-flux (Used for routing)
+  * npm install --save react-native-router-flux@3.35.0
 * Axios
    * npm install --save axios
 
