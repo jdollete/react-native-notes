@@ -29,6 +29,8 @@ Personal notes using react-native on mac
    * npm install --save axios
 * Lodash (Helper method for objects and arrays)
   * npm install --save lodash
+* react-native communications (Gives it the ability to send text and make calls)
+  * npm install --save react-native-communications
 
 ## Errors/Troubleshooting
 * bundling failed: "TransformError"
